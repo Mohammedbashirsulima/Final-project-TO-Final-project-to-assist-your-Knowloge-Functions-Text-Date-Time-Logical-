@@ -10,4 +10,5 @@ Create formulas that show the percentage increase in sales in 2023.
 
 And break down these totals by month with the use of further calculations.
 
+Let’s help Jamie to complete this worksheet.
 
